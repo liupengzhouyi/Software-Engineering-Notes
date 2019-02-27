@@ -4,9 +4,9 @@
 * [绪论](xu-lun.md)
   * [软件的发展和软件危机](xu-lun/ruan-jian-de-fa-zhan-he-ruan-jian-wei-ji.md)
 * [软件工程概述](ruan-jian-gong-cheng-gai-shu.md)
-  * 软件危机
-  * 软件工程
-  * 软件生命周期
+  * [软件危机](ruan-jian-gong-cheng-gai-shu/ruan-jian-wei-ji.md)
+  * [软件工程](ruan-jian-gong-cheng-gai-shu/ruan-jian-gong-cheng.md)
+  * [软件生命周期](ruan-jian-gong-cheng-gai-shu/ruan-jian-sheng-ming-zhou-qi.md)
   * 软件过程
 * [可行性研究](ke-xing-xing-yan-jiu.md)
   * 可行性研究的任务
