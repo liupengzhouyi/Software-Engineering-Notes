@@ -7,7 +7,7 @@
   * [软件危机](ruan-jian-gong-cheng-gai-shu/ruan-jian-wei-ji.md)
   * [软件工程](ruan-jian-gong-cheng-gai-shu/ruan-jian-gong-cheng.md)
   * [软件生命周期](ruan-jian-gong-cheng-gai-shu/ruan-jian-sheng-ming-zhou-qi.md)
-  * 软件过程
+  * [软件过程](ruan-jian-gong-cheng-gai-shu/ruan-jian-guo-cheng.md)
 * [可行性研究](ke-xing-xing-yan-jiu.md)
   * 可行性研究的任务
   * 可行性研究过程
@@ -24,8 +24,8 @@
   * 状态转换图
   * 其他图形工具
   * 验证软件需求
-* 形式化说明技术
-* 总体设计
+* [形式化说明技术](xing-shi-hua-shuo-ming-ji-zhu.md)
+* [总体设计](zong-ti-she-ji.md)
 * [详细设计](xiang-xi-she-ji.md)
   * 结构程序设计
   * 人机界面设计
@@ -52,4 +52,6 @@
 * 面向对象设计
 * 面向对象实现
 * 软件项目管理
+* UML
+  * [UML历史](umlli-shi.md)
 
