@@ -52,6 +52,6 @@
 * 面向对象设计
 * 面向对象实现
 * 软件项目管理
-* UML
+* [UML](uml.md)
   * [UML历史](umlli-shi.md)
 
