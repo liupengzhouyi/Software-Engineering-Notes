@@ -9,10 +9,10 @@
   * [软件生命周期](ruan-jian-gong-cheng-gai-shu/ruan-jian-sheng-ming-zhou-qi.md)
   * [软件过程](ruan-jian-gong-cheng-gai-shu/ruan-jian-guo-cheng.md)
 * [可行性研究](ke-xing-xing-yan-jiu.md)
-  * 可行性研究的任务
+  * [可行性研究的任务](ke-xing-xing-yan-jiu/ke-xing-xing-yan-jiu-de-ren-wu.md)
   * 可行性研究过程
-  * 系统流程图
-  * 数据流图
+  * [系统流程图](ke-xing-xing-yan-jiu/xi-tong-liu-cheng-tu.md)
+  * [数据流图](ke-xing-xing-yan-jiu/shu-ju-liu-tu.md)
   * 数据字典
   * 成本/效益分析
 * [需求分析](xu-qiu-fen-xi.md)
