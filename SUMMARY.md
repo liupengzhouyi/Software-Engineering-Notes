@@ -13,7 +13,7 @@
   * [可行性研究过程](ke-xing-xing-yan-jiu/ke-xing-xing-yan-jiu-guo-cheng.md)
   * [系统流程图](ke-xing-xing-yan-jiu/xi-tong-liu-cheng-tu.md)
   * [数据流图](ke-xing-xing-yan-jiu/shu-ju-liu-tu.md)
-  * 数据字典
+  * [数据字典](ke-xing-xing-yan-jiu/shu-ju-zi-dian.md)
   * 成本/效益分析
 * [需求分析](xu-qiu-fen-xi.md)
   * 需求分析的任务
