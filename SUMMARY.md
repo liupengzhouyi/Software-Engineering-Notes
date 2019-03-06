@@ -10,7 +10,7 @@
   * [软件过程](ruan-jian-gong-cheng-gai-shu/ruan-jian-guo-cheng.md)
 * [可行性研究](ke-xing-xing-yan-jiu.md)
   * [可行性研究的任务](ke-xing-xing-yan-jiu/ke-xing-xing-yan-jiu-de-ren-wu.md)
-  * 可行性研究过程
+  * [可行性研究过程](ke-xing-xing-yan-jiu/ke-xing-xing-yan-jiu-guo-cheng.md)
   * [系统流程图](ke-xing-xing-yan-jiu/xi-tong-liu-cheng-tu.md)
   * [数据流图](ke-xing-xing-yan-jiu/shu-ju-liu-tu.md)
   * 数据字典
