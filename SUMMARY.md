@@ -17,9 +17,9 @@
   * 成本/效益分析
 * [需求分析](xu-qiu-fen-xi.md)
   * [需求分析的任务](xu-qiu-fen-xi/xu-qiu-fen-xi-de-ren-wu.md)
-  * 与用户沟通获取需求的方法
-  * 分析建模与规格说明
-  * 实体联系图
+  * [与用户沟通获取需求的方法](xu-qiu-fen-xi/yu-yong-hu-gou-tong-huo-qu-xu-qiu-de-fang-fa.md)
+  * [分析建模与规格说明](xu-qiu-fen-xi/fen-xi-jian-mo-yu-gui-ge-shuo-ming.md)
+  * [实体联系图](xu-qiu-fen-xi/shi-ti-lian-xi-tu.md)
   * 数据规范化
   * 状态转换图
   * 其他图形工具
