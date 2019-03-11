@@ -16,7 +16,7 @@
   * [数据字典](ke-xing-xing-yan-jiu/shu-ju-zi-dian.md)
   * 成本/效益分析
 * [需求分析](xu-qiu-fen-xi.md)
-  * 需求分析的任务
+  * [需求分析的任务](xu-qiu-fen-xi/xu-qiu-fen-xi-de-ren-wu.md)
   * 与用户沟通获取需求的方法
   * 分析建模与规格说明
   * 实体联系图
