@@ -24,6 +24,7 @@
   * 状态转换图
   * 其他图形工具
   * 验证软件需求
+  * [SA方法分析-图书管理系统](xu-qiu-fen-xi/safang-fa-fen-6790-tu-shu-guan-li-xi-tong.md)
 * [形式化说明技术](xing-shi-hua-shuo-ming-ji-zhu.md)
 * [总体设计](zong-ti-she-ji.md)
 * [详细设计](xiang-xi-she-ji.md)
