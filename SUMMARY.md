@@ -61,4 +61,5 @@
   * [第一次作业](zuo-ye/di-yi-ci-zuo-ye.md)
 * [禅道测试管理](shan-dao-ce-shi-guan-li.md)
   * [打开禅道测试的大门](shan-dao-ce-shi-guan-li/da-kai-shan-dao-ce-shi-de-da-men.md)
+  * [我是如何一步一步入了禅道测试的坑？](shan-dao-ce-shi-guan-li/wo-shi-ru-he-yi-bu-yi-bu-ru-le-shan-dao-ce-shi-de-keng-ff1f.md)
 
