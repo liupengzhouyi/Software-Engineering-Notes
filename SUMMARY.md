@@ -29,8 +29,8 @@
 * [形式化说明技术](xing-shi-hua-shuo-ming-ji-zhu.md)
 * [总体设计](zong-ti-she-ji.md)
 * [详细设计](xiang-xi-she-ji.md)
-  * 结构程序设计
-  * 人机界面设计
+  * [结构程序设计](xiang-xi-she-ji/jie-gou-cheng-xu-she-ji.md)
+  * [人机界面设计](xiang-xi-she-ji/ren-ji-jie-mian-she-ji.md)
   * 过程设计工具
 * [实现](shi-xian.md)
   * 编码
@@ -49,7 +49,7 @@
   * 软件的可维护性
   * 预防性维护
   * 软件在工程过程
-* 面向对象方法学引论
+* [面向对象方法学引论](mian-xiang-dui-xiang-fang-fa-xue-yin-lun.md)
 * 面向对象分析
 * 面向对象设计
 * 面向对象实现
@@ -63,4 +63,7 @@
   * [打开禅道测试的大门](shan-dao-ce-shi-guan-li/da-kai-shan-dao-ce-shi-de-da-men.md)
   * [我是如何一步一步入了禅道测试的坑？](shan-dao-ce-shi-guan-li/wo-shi-ru-he-yi-bu-yi-bu-ru-le-shan-dao-ce-shi-de-keng-ff1f.md)
   * [我的测试](shan-dao-ce-shi-guan-li/wo-de-ce-shi.md)
+* [4.3 启发规则](43-qi-fa-gui-ze.md)
+* [4.4 SD方法](44-sdfang-fa.md)
+* [4.2 概念原理](42-gai-nian-yuan-li.md)
 
